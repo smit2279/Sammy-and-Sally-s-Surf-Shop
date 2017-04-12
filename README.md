@@ -1,4 +1,4 @@
-Shelly and Sammy's Surf Shop
+Shelly and Sammy's Super Surf Shop
 <Html>
 <head>
 </head>
