@@ -1,9 +1,6 @@
 Shelly and Sammy's Surf Shop
 <Html>
 <head>
-<title>
-Services - Shelly & Sammy's Surf Shop
-</title>
 </head>
 <body bgcolor = "#D0ECE7">
 <br>
