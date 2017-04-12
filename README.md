@@ -1,1 +1,1 @@
-# Sammy-and-Sally-s-Surf-Shop
+Sammy and Sally's Surf Shop
